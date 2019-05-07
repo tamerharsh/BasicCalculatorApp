@@ -11,7 +11,7 @@ Clone the repository
 Setting variables
 
     set  BasicCalculatorApp_BUILD_DIR="C:/BasicCalculatorApp"
-    set CONFIG = RELEASE
+    set CONFIG=RELEASE
 
 Downloading googletest libraray
   
@@ -40,12 +40,11 @@ and run the executable file
      
      mylib.exe
 
-    
-
+  
 To run the test
 
     cd  %BasicCalculatorApp_BUILD_DIR%\install\bin_test
  and run the executable file 
-    unit_test.exe
+    
+      unit_test.exe
 
-#cmake -Ax64 -DCMAKE_WINDOWS_EXPORT_ALL_SYMBOLS=ON -DBUILD_SDK_PKG=ON -DGTEST_CMAKE_DIR="F:\Unit_Test_FrameWork_Tutorials\BasicCalculatorApp\googletest" -Dgtest_force_shared_crt=TRUE
