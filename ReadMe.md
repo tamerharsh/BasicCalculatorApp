@@ -1,8 +1,8 @@
 This is a simple application of basic calculator which adds two numbers. The source code is tested using one of the UNIT TEST FRAME WORK called "gtest". Also, the complete application is created using build generator CMake.
 
-Following step are be followed to run the application
+Following step are be followed to run the application.
 
-Explicitly setting the variables and cloing the repository
+Explicitly setting the variables and cloing the repository.
 
     cd C:\
 
@@ -15,7 +15,7 @@ Setting variables
     set  BasicCalculatorApp_BUILD_DIR="C:/BasicCalculatorApp"
     set CONFIG=RELEASE
 
-Downloading googletest libraray
+Downloading googletest library
   
      cd  %BasicCalculatorApp_BUILD_DIR% 
      git clone https://github.com/google/googletest.git
