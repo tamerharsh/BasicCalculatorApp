@@ -2,7 +2,7 @@ This is a simple application of basic calculator which adds two numbers. The sou
 
 Following step are be followed to run the application.
 
-Explicitly setting the variables and cloing the repository.
+Explicitly setting the variables and cloing the repository
 
     cd C:\
 
