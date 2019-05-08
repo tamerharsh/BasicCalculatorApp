@@ -1,5 +1,7 @@
 This is a simple application of basic calculator which adds two numbers. The source code is tested using one of the UNIT TEST FRAME WORK called "gtest". Also, the complete application is created using build generator CMake.
 
+Following step are be followed to run the application
+
 Explicitly setting the variables and cloing the repository
 
     cd C:\
